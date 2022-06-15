@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/doaashafik/react-gh-pages/static/css/main.073c9b0a.css",
+    "main.js": "/doaashafik/react-gh-pages/static/js/main.cbab8f3b.js",
+    "static/js/787.a0dd5101.chunk.js": "/doaashafik/react-gh-pages/static/js/787.a0dd5101.chunk.js",
+    "static/media/logo.svg": "/doaashafik/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/doaashafik/react-gh-pages/index.html",
+    "main.073c9b0a.css.map": "/doaashafik/react-gh-pages/static/css/main.073c9b0a.css.map",
+    "main.cbab8f3b.js.map": "/doaashafik/react-gh-pages/static/js/main.cbab8f3b.js.map",
+    "787.a0dd5101.chunk.js.map": "/doaashafik/react-gh-pages/static/js/787.a0dd5101.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.cbab8f3b.js"
+  ]
+}
