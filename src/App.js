@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <code>src/App.js</code>
+          <code>src/App.js</code> add github actions
         </p>
         <a
           className="App-link"
@@ -17,7 +17,6 @@ function App() {
         >
           Learn React
         </a>
-        <button style={{color: "red", background: 'green'}}>test-color</button>
       </header>
     </div>
   );
