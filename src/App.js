@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <button style={{color: "red", background: 'green'}}>test-color</button>
       </header>
     </div>
   );
